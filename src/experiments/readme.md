@@ -1,9 +1,8 @@
 # Experiments
 
-This folder contains exploratory work, tests, and experimental ideas.  
-Not all experiments will make it into the final solution, but they help shape the direction of the project.
+Ideas to test in a future pilot:
 
-### Types of Experiments
-- Prompt engineering for FP modules.
-- AI  data flows.
-- Copilot-based educational scenarios.
+- Explaining one competency from a VET module in plain language and checking learner understanding.
+- Generating practical activities for a competency and having a teacher review them.
+- Organising a learner's evidence into a portfolio aligned with competencies.
+- Measuring teacher time and learner autonomy before and after using the agent.
