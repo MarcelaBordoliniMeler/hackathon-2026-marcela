@@ -53,8 +53,7 @@ More details in [`docs/responsible-ai.md`](docs/responsible-ai.md).
 │   ├── responsible-ai.md     ← Responsible AI principles applied
 │   └── research-notes.md     ← context and references
 ├── pitch/
-│   ├── pitch-draft.md        ← 2-minute pitch script (ES / EN)
-│   └── storyboard.md         ← video storyboard
+│   └── pitch-draft.md        ← 2-minute pitch script (ES / EN)
 ├── assets/
 │   ├── diagrams/readme.md    ← conceptual architecture and flow diagrams
 │   └── images/readme.md
