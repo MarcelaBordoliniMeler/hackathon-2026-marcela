@@ -1,3 +1,5 @@
 # Images
 
-This folder contains images used in documentation, pitch materials, and visual explanations.
+Visual materials for FP Agentic Mentor (illustrations and screenshots).
+
+Images created with generative AI tools are labelled as AI-generated.
